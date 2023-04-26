@@ -9,3 +9,5 @@ La clase Rectangulo es una representación de un rectángulo (jugador) que se mu
 La clase Forma es la clase base que tiene un constructor que establece la posición inicial de la forma y los métodos para mostrar y actualizar la posición de la forma. También tiene un método para cambiar el color de relleno de la forma al azar, ya sea de la pelota y rectangulos presentes.
 
 Juego que consta en 2 jugadores uno que mueve el rectangulo 1 con W y S y el jugador 2 que mueve el rectangulo 2 con flechitas hacia arriba y abajo y debe anotar puntos al contrario, el primero que llegue a 5 puntos ganara en automatico.
+
+[UML]!(Diagrama Ping Pong)
